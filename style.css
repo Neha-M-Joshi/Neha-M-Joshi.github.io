@@ -1,6 +1,33 @@
 body {
-  font-family: Arial;
+  font-family: Arial, sans-serif;
   max-width: 1000px;
   margin: auto;
   padding: 20px;
+  line-height: 1.7;
+  background-color: #fafafa;
+  color: #222;
+}
+
+nav {
+  margin-bottom: 30px;
+}
+
+nav a {
+  margin-right: 15px;
+  text-decoration: none;
+  color: maroon;
+  font-weight: bold;
+}
+
+h1 {
+  color: maroon;
+}
+
+h2 {
+  margin-top: 35px;
+  color: #444;
+}
+
+ul {
+  margin-bottom: 25px;
 }
